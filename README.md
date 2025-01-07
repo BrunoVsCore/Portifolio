@@ -1,2 +1,2 @@
-Meu Portifolio
-https://github.com/BrunoVsCore/Portifolio
+Minha Página de Portifolio:
+https://brunovscore.github.io/Portifolio/

@@ -1,2 +1,2 @@
-Minha Página de Portifolio:
+My Portfolio Page:
 https://brunovscore.github.io/Portifolio/

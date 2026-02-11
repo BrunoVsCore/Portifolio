@@ -7,7 +7,7 @@ The project showcases my skills in modern web development and 3D design.
 
 ## Demo / Preview
 
-<img align="center" height=600 width=600 alt="Instagram Demo" style="border-radius:100px;" src="preview.png" />
+<img align="center" alt="Instagram Demo" style="border-radius:100px;" src="preview.png" />
 
 
 

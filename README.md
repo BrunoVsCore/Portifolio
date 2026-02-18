@@ -12,8 +12,9 @@ The project showcases my skills in modern web development and 3D design.
 
 
 
-My Portfolio Page:
-https://brunovscore.github.io/Portifolio/
+Check out portfolio page:
+---
+🟢 https://brunovscore.github.io/Portifolio/
                                                                                                                             
 ## ✨ Technologies Used
 [![skills](https://api.devicons.dev.br/icon?icons=React%2CHTML%2CCSS%2CJavaScript&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
